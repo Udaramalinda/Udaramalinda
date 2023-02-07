@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udara Malinda Wijesinghe</h1>
-- 🌱 I’m currently a **computer science and engineering undergraduate student.**
+- 🌱 I’m currently a computer science and engineering undergraduate student
 
 - 📫 How to reach me **udarawijesinghe20@gmail.com**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udara Malinda Wijesinghe</h1>
-<h3 align="center">I'm passionate about full-stack developing and I'm always looking for new opportunities to grow and challenge myself. On my GitHub profile, you can find some of my personal projects and contributions to open source projects. I believe in the power of collaboration and sharing knowledge, so feel free to reach out to me if you have any questions or just want to chat.</h3>
+<h2 align="center">I'm passionate about full-stack developing and I'm always looking for new opportunities to grow and challenge myself. On my GitHub profile, you can find some of my personal projects and contributions to open source projects. I believe in the power of collaboration and sharing knowledge, so feel free to reach out to me if you have any questions or just want to chat.</h2>
 
 - 🌱 I’m currently a **computer science and engineering undergraduate student.**
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/udara-wijesinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/udara-wijesinghe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/udara-wijesinghe-795292265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/udara-wijesinghe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

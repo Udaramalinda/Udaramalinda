@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udara Malinda Wijesinghe</h1>
-<h2 align="center">I'm passionate about full-stack developing and I'm always looking for new opportunities to grow and challenge myself. On my GitHub profile, you can find some of my personal projects and contributions to open source projects. I believe in the power of collaboration and sharing knowledge, so feel free to reach out to me if you have any questions or just want to chat.</h2>
+<h4 align="center">I'm passionate about full-stack developing and I'm always looking for new opportunities to grow and challenge myself.<br> On my GitHub profile, you can find some of my personal projects and contributions to open source projects. I believe in the power of collaboration and sharing knowledge, so feel free to reach out to me if you have any questions or just want to chat.</h4>
 
 - 🌱 I’m currently a **computer science and engineering undergraduate student.**
 

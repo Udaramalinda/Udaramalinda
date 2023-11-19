@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Udara Malinda Wijesinghe</h1>
-<h4 align="center">I'm passionate about full-stack developing and I'm always looking for new opportunities to grow and challenge myself.<br> On my GitHub profile, you can find some of my personal projects and contributions to open source projects. I believe in the power of collaboration and sharing knowledge, so feel free to reach out to me if you have any questions or just want to chat.</h4>
+<h1 align="left">Hi 👋, I'm Udara Malinda Wijesinghe</h1>
+<h4 align="left">I'm passionate about full-stack developing and I'm always looking for new opportunities to grow and challenge myself.<br> On my GitHub profile, you can find some of my personal projects and contributions to open source projects. I believe in the power of collaboration and sharing knowledge, so feel free to reach out to me if you have any questions or just want to chat.</h4>
 
 - 🌱 I’m currently a **computer science and engineering undergraduate student.**
 
-- 📫 How to reach me **udarawijesinghe20@gmail.com**
+- 📫 How to reach me **udarawijesinghe20@gmail.com** or **udara.20@cse.mrt.ac.lk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

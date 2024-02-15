@@ -57,3 +57,5 @@
 <!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  </a> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postresql" width="40" height="40"/>
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Udaramalinda&show_icons=true&theme=radical" alt="Udaramalinda" /></p>
+

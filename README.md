@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Udara Malinda Wijesinghe</h1>
-<h4 align="left"><i>Software Developer and Cybersecurity Enthusiast, Passionate about crafting innovative software solutions while remaining vigilant in safeguarding digital assets against cyber threats. Committed to mastering both the art of coding and the science of cybersecurity to create resilient and secure systems.</i></h4>
+<h4 align="left"><i>A dynamic Software Developer and Cybersecurity Enthusiast, driven by a deep passion for building cutting-edge software while ensuring robust protection against cyber threats. Dedicated to blending the principles of software engineering with cybersecurity practices, aiming to develop resilient, secure, and scalable systems. Always eager to learn and innovate in both fields to stay ahead of evolving challenges.</i></h4>
 
 - 🌱 I’m currently a **Computer Science & Engineering** undergraduate student.
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/udara-wijesinghe-795292265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/udara-wijesinghe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/udara-wijesinghe-malinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/udara-wijesinghe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,6 +56,15 @@
 <!-- Postgre SQSL -->
 <!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  </a> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+
+
+
+
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Udaramalinda&show_icons=true&theme=radical" alt="Udaramalinda" /></p>
 

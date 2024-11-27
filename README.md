@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **udarawijesinghe20@gmail.com** or **udara.20@cse.mrt.ac.lk**
   
-- 💻 Check out my site <a href="https://udaramalinda.github.io/"><strong>udaramalinda.github.io</strong></a>
+<!-- - 💻 Check out my site <a href="https://udaramalinda.github.io/"><strong>udaramalinda.github.io</strong></a> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
